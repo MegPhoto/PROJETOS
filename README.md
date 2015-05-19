@@ -1,0 +1,3 @@
+# PROJETOS
+REPOSITÓRIO DESTINADO PARA POSTAGENS DE PROJETOS DO LABCEUS
+Pasta destinada a receber projetos das Ocupações.
